@@ -1,0 +1,42 @@
+li{
+	list-style-type:none;
+	margin:0 3vw;
+	display:inline;
+	margin:0 2vw;
+	font-size: 4vh;
+
+ }
+ a{
+	 text-decoration:none;
+	 color: black;
+	 padding:1vw;
+	 font-family:Calibri Light;
+	 }
+	
+nav{
+	width:100vw;
+	background-color:#9999ff;
+
+	ul{
+	margin: 0;
+    padding: 0;
+
+ }
+
+ body{
+	 margin:0;
+ }
+ a:hover{background-color: #C6E9FF;
+ }
+ 
+h1{
+	color: white;
+	text-allign:20px
+}
+
+<p style="border:7px; border-style:solid; border-color:#0E0800; padding: 1em;">
+
+
+
+
+ 
